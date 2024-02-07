@@ -7,13 +7,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT**
 
-- 👯 I’m looking to collaborate on **frontend projects**
-
-- 🤝 I’m looking for help with **JAVASCRIPT**
-
 - 📫 How to reach me **sangeorge04@gmail.com**
-
-- ⚡ Fun fact **I like to deal with data structures!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
