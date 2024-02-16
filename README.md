@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sandra...✨</h1>
+<h1 align="center">Hi , I'm Sandra...👋</h1>
 <h3 align="center">A passionate Computer Science Engineering Student from Kerala, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandramariyageorge&label=Profile%20views&color=0e75b6&style=flat" alt="sandramariyageorge" /> </p>
 
 - 🔭 I’m currently working on **Data Structures & Algorithm**
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **sangeorge04@gmail.com**
 
