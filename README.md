@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandramariyageorge&label=Profile%20views&color=0e75b6&style=flat" alt="sandramariyageorge" /> </p>
 
-- 🔭 I’m currently working on **Data Structures & Algorithm**
-
-- 🌱 I’m currently learning **Web Development**
-
 - 📫 How to reach me **sangeorge04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
