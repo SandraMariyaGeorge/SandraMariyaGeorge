@@ -32,7 +32,7 @@
 
 ### 🤝 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=flat-square&logo=vercel&logoColor=white)](https://sandramariya.vercel.app/) [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/sandra__gx) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-mariya-george-1a4a1624b/) [![Email](https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sangeorge04@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=flat-square&logo=vercel&logoColor=white)]() [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/sandra__gx) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-mariya-george-1a4a1624b/) [![Email](https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sangeorge04@gmail.com)
 
 ---
 
